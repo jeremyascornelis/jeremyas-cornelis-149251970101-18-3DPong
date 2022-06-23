@@ -6,9 +6,9 @@ Artikel ini akan berisi terkait penjelasan seputar project 3D Pong ini.
 
 ## Table of Contents
 
-> 1. [Introduction](#introduction)
-> 1. [Cara Bermain](#cara-bermain)
-> 1. [Tentang Script](#scripts)
+> 1. [Introduction](#1-introduction)
+> 1. [Cara Bermain](#2-cara-bermain)
+> 1. [Tentang Script](#3-scripts)
 
 
 ## 1. Introduction
