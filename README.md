@@ -5,6 +5,10 @@
 Artikel ini akan berisi penjelasan seputar project 3D Pong ini. <br>
 Untuk build palyable dari game 3D Pong dapat dilihat di [branch build](https://github.com/jeremyascornelis/jeremyas-cornelis-149251970101-18-3DPong/tree/build) pada repository ini
 
+### GamePlay Screenshot
+![image](https://user-images.githubusercontent.com/74807111/175297338-cbca8465-a417-4c90-8ad2-4873004a761a.png)
+
+
 ## Table of Contents
 
 > 1. [Introduction](#1-introduction)
