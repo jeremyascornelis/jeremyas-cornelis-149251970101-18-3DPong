@@ -21,6 +21,7 @@ Repository ini berisi permainan 3D Pong dalam rangka tugas untuk DTS FGA Agate G
 - Player action: pemain bisa menggeser-geserkan paddle ke kiri dan ke kanan
 ### Screen Flow
 ![This is an image](https://ibb.co/qYnKFV4) <br>
+
 **[⬆ Back to Top](#table-of-contents)**
 
 <a name="howtoplay")></a>
@@ -44,6 +45,7 @@ Penjelasan terkait cara bermain ini juga tersedia di dalam game, bila ingin meli
 - Pemain yang jumlah scorenya mencapai 15 akan dinyatakan kalah.
 - Apabila pemain sudah kalah maka paddle dari pemain tersebut akan inaktif (tidak bisa digerakkan)
 - Pemain yang dinyatakan sebagai pemenang adalah yang dapat bertahan hingga permainan berakhir. <br>
+
 **[⬆ Back to Top](#table-of-contents)**
 
 <a name="scripts")></a>
@@ -68,4 +70,5 @@ Terdapat 13 Scripts yang dibutuhkan untuk membuat Game 3D Pong ini yang terdiri 
 ### Scene Manager
 - MainMenuManager.cs: script berisi beberapa method untuk mentrigger button sehingga dapat berpindah scene ke scene GamePlay ataupun ke scene HowtoPlay atau bahkan keluar dari aplikasi.
 - HowToPlayManager.cs: script berisi method untuk tombol kembali ke main menu (berpindah ke scene main menu)<br>
-- **[⬆ Back to Top](#table-of-contents)**
+
+**[⬆ Back to Top](#table-of-contents)**
