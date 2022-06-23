@@ -2,7 +2,7 @@
 ## By: Jeremyas Cornelis Abigail
 ### ID Registrasi: 149251970101-18
 
-Artikel ini akan berisi terkait penjelasan seputar project 3D Pong ini.
+Artikel ini akan berisi penjelasan seputar project 3D Pong ini.
 
 ## Table of Contents
 
