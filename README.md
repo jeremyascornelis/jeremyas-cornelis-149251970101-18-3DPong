@@ -7,10 +7,10 @@ Artikel ini akan berisi terkait penjelasan seputar project 3D Pong ini.
 ## Table of Contents
 
 > 1. [Introduction](#introduction)
-> 1. [Cara Bermain](#howtoplay)
+> 1. [Cara Bermain](#cara-bermain)
 > 1. [Tentang Script](#scripts)
 
-<a name="introduction")></a>
+
 ## 1. Introduction
 Repository ini berisi permainan 3D Pong dalam rangka tugas untuk DTS FGA Agate Game Programming.
 ### Overview
@@ -24,7 +24,7 @@ Repository ini berisi permainan 3D Pong dalam rangka tugas untuk DTS FGA Agate G
 
 **[⬆ Back to Top](#table-of-contents)**
 
-<a name="howtoplay")></a>
+
 ## 2. Cara Bermain
 Saya membagi beberapa poin penjelasan seputar cara bermain 3D Pong Game ini.
 Penjelasan terkait cara bermain ini juga tersedia di dalam game, bila ingin melihatnya dapat menekan tombol How to Play.
@@ -48,7 +48,7 @@ Penjelasan terkait cara bermain ini juga tersedia di dalam game, bila ingin meli
 
 **[⬆ Back to Top](#table-of-contents)**
 
-<a name="scripts")></a>
+
 ## 3. Scripts
 Terdapat 13 Scripts yang dibutuhkan untuk membuat Game 3D Pong ini yang terdiri dari 4 scripts untuk paddle yang saya masukkan ke dalam folder Paddles dan 9 scripts yang lain untuk mengatur bola dan score. Berikut penjelasan detailnya:
 ### Paddles
