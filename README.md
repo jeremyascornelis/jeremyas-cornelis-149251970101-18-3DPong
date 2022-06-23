@@ -7,8 +7,8 @@ Artikel ini akan berisi terkait penjelasan seputar project 3D Pong ini.
 ## Table of Contents
 
 > 1. [Introduction](#introduction)
-> 2. [Cara Bermain](#howtoplay)
-> 3. [Scripts](#scripts)
+> 1. [Cara Bermain](#howtoplay)
+> 1. [Tentang Script](#scripts)
 
 <a name="introduction")></a>
 ## 1. Introduction
@@ -20,7 +20,7 @@ Repository ini berisi permainan 3D Pong dalam rangka tugas untuk DTS FGA Agate G
 - Progression of play: setiap player kebobolan, poin player tersebut bertambah 1. Jika poinnya mencapai 15, player tersebut keluar dari permainan. Selama belum tersisa 1 player saja, permainan terus berlangsung.
 - Player action: pemain bisa menggeser-geserkan paddle ke kiri dan ke kanan
 ### Screen Flow
-![This is an image](https://ibb.co/qYnKFV4) <br>
+![image](https://user-images.githubusercontent.com/74807111/175260413-459d4931-ba07-4cfe-9de5-82f5f1f3cdde.png) <br>
 
 **[⬆ Back to Top](#table-of-contents)**
 
