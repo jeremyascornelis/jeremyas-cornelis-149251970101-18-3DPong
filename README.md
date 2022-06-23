@@ -4,7 +4,6 @@
 
 Artikel ini akan berisi terkait penjelasan seputar project 3D Pong ini.
 
-<a name="table-of-contents"></a>
 ## Table of Contents
 
 > 1. [Introduction](#introduction)
@@ -21,7 +20,7 @@ Repository ini berisi permainan 3D Pong dalam rangka tugas untuk DTS FGA Agate G
 - Progression of play: setiap player kebobolan, poin player tersebut bertambah 1. Jika poinnya mencapai 15, player tersebut keluar dari permainan. Selama belum tersisa 1 player saja, permainan terus berlangsung.
 - Player action: pemain bisa menggeser-geserkan paddle ke kiri dan ke kanan
 ### Screen Flow
-![alt screenFlow](https://ibb.co/qYnKFV4)
+![This is an image](https://ibb.co/qYnKFV4) <br>
 **[⬆ Back to Top](#table-of-contents)**
 
 <a name="howtoplay")></a>
@@ -44,7 +43,7 @@ Penjelasan terkait cara bermain ini juga tersedia di dalam game, bila ingin meli
 - Bila pemain kemasukan bola maka score pemain akan bertambah.
 - Pemain yang jumlah scorenya mencapai 15 akan dinyatakan kalah.
 - Apabila pemain sudah kalah maka paddle dari pemain tersebut akan inaktif (tidak bisa digerakkan)
-- Pemain yang dinyatakan sebagai pemenang adalah yang dapat bertahan hingga permainan berakhir.
+- Pemain yang dinyatakan sebagai pemenang adalah yang dapat bertahan hingga permainan berakhir. <br>
 **[⬆ Back to Top](#table-of-contents)**
 
 <a name="scripts")></a>
@@ -68,5 +67,5 @@ Terdapat 13 Scripts yang dibutuhkan untuk membuat Game 3D Pong ini yang terdiri 
 - GameOverManager.cs: script untuk mentrigger apabila telah tersisa satu pemain saja maka akan mengaktifkan panel GameOver dan memunculkan pemenang dari permainan ini. Serta terdapat method replay untuk kembali bermain lagi dan method MainMenu untuk kembali ke scene main menu.
 ### Scene Manager
 - MainMenuManager.cs: script berisi beberapa method untuk mentrigger button sehingga dapat berpindah scene ke scene GamePlay ataupun ke scene HowtoPlay atau bahkan keluar dari aplikasi.
-- HowToPlayManager.cs: script berisi method untuk tombol kembali ke main menu (berpindah ke scene main menu)
+- HowToPlayManager.cs: script berisi method untuk tombol kembali ke main menu (berpindah ke scene main menu)<br>
 - **[⬆ Back to Top](#table-of-contents)**
