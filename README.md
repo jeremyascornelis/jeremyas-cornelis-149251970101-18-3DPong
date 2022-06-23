@@ -3,6 +3,7 @@
 ### ID Registrasi: 149251970101-18
 
 Artikel ini akan berisi penjelasan seputar project 3D Pong ini.
+Untuk build dari game ini dapat dilihat pada [branch build](https://github.com/jeremyascornelis/jeremyas-cornelis-149251970101-18-3DPong/tree/build) pada repository ini
 
 ## Table of Contents
 
