@@ -2,7 +2,7 @@
 ## By: Jeremyas Cornelis Abigail
 ### ID Registrasi: 149251970101-18
 
-Artikel ini akan berisi penjelasan seputar project 3D Pong ini.
+Artikel ini akan berisi penjelasan seputar project 3D Pong ini. <br>
 Untuk build dari game ini dapat dilihat di [branch build](https://github.com/jeremyascornelis/jeremyas-cornelis-149251970101-18-3DPong/tree/build) pada repository ini
 
 ## Table of Contents
