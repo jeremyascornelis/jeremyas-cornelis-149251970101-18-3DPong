@@ -2543,7 +2543,7 @@ MonoBehaviour:
   paddleKanan: {fileID: 1763102825}
   paddleKiri: {fileID: 786741124}
   manager: {fileID: 1080781563}
-  maxScore: 2
+  maxScore: 15
 --- !u!4 &1357972420
 Transform:
   m_ObjectHideFlags: 0
